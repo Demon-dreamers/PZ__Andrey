@@ -8,6 +8,7 @@
 * Use scss
 * Use scss variables
 * Add sourcemap for scss
+* add swiper for js + auto scroll
 
 ![img](https://user-images.githubusercontent.com/10829855/182413759-63dcac8d-3ea7-4f53-99f3-90111823ee00.png)
 
